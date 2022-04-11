@@ -1,3 +1,6 @@
+#BLESSING CHIPADZE R206540D 
+#SAMUEL SINGENDE R204440W 
+
 from keras.models import load_model
 import sys
 
