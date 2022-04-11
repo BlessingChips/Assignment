@@ -1,9 +1,4 @@
-import streamlit as st
-import cv2
-import tensorflow as tf 
-import numpy as np
-from keras.models import load_model
-import sys
+
 
 #Loading the Inception model
 model= load_model('killit.h5',compile=(False))
