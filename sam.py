@@ -1,4 +1,5 @@
-
+from keras.models import load_model
+import sys
 
 #Loading the Inception model
 model= load_model('killit.h5',compile=(False))
